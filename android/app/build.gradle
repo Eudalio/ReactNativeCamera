@@ -94,8 +94,8 @@ def enableSeparateBuildPerCPUArchitecture = false
 def enableProguardInReleaseBuilds = false
 
 android {
-    compileSdkVersion rootProject.ext.compileSdkVersion
-    buildToolsVersion rootProject.ext.buildToolsVersion
+    compileSdkVersion 26 /* rootProject.ext.compileSdkVersion */
+    buildToolsVersion "26.0.1" /* rootProject.ext.buildToolsVersion */
 
     defaultConfig {
         applicationId "com.atualizando_gradle"

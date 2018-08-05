@@ -3,6 +3,7 @@
 ### Configurado
 - EsLint (Padrão Airbnb)
 - PropTypes
+- Editorconfig
 - Babel
 - ReactoTron
 - Diretório raiz: 'src/'
