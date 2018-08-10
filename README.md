@@ -1,11 +1,3 @@
-# Esqueleto padrão para projetos com react native
+# ReactNativeCamera
 
-### Configurado com:
-**Obs**: Para as configurações funcionarem instale as dependências usando: yarn ou npm i.
-
-- EsLint (Padrão Airbnb)
-- PropTypes
-- Editorconfig
-- Babel
-- ReactoTron
-- Diretório raiz: 'src/'
+- Simple application. It only asks permission to use the camera, takes photos, and shows an alert of the address where the photo taken was stored.
